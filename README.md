@@ -1,7 +1,7 @@
-# Saga Pattern Youtube Eðitim Videosu Reposu
+# Saga Pattern Youtube EÃ°itim Videosu Reposu
 
 ## Video Linki
-
+https://youtu.be/eyNp2b2MZLs
 
 ## RabbitMQ Docker Kodu
 ```bash
